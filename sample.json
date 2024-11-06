@@ -1,0 +1,74 @@
+[{
+    "name": "student",
+    "email": "sample@student.com",
+    "coverImg": {
+      "public_ID": "collegePhoto",
+      "public_URI": "/images/cover.jpg"
+    },
+    "verified": true,
+    "numVerified": true,
+    "signedUpFor": "student",
+    "mobileNumber": "1234567887",
+    "password": "$2a$11$9k38i.QnitZSnKDbLNyxF.TlyqeyR3Z24UrO8YOBXO8CjlHdjazDS",
+    "avatar": {
+      "public_ID": "profilimage",
+      "public_URI": "/images/profile.png"
+    },
+    "mentorAssigned": false,
+    "role": "student",
+    "isActive": true
+  },
+{
+ 
+    "name": "sample",
+    "verified": true,
+    "email": "sample@mentor.com",
+    "collegeName": "Indian Institute of Technology Roorke",
+    "signedUpFor": "mentor",
+    "isStepLastCompleted": true,
+    "mobileNumber": "1234567890",
+    "password": "$2a$11$21IYMqpGDO91Kupvgs9JQejOdOIqoQQ15An2kiRHlD8YLgUAxr5wC",
+ "avatar": {
+      "public_ID": "profilimage",
+      "public_URI": "/images/profile.png"
+    },
+    "updateRequest": "no",
+    "isPending": "no",
+    "isRejected": "no",
+    "isApproved": "yes",
+    "userAssigned": [],
+    "ratings": 0,
+    "numOfReviews": 0,
+    "mentoringStatus": "active",
+    "role": "mentor",
+    "isActive": true,
+    "reviews": [],
+    "about": "As a second-year IIT student, I've settkled into the intense academic rhythm and am now delving deeper into my chosen major. My days are a blend of advanced coursework, labs, and group projects, demanding both intellectual and practical engagement. I’m also actively involved in extracurricular activities and internships,",
+    "branch": "CS",
+    "desc": "a second-year IIT student",
+    "exam": {
+      "name": "jeemains",
+      "rank": 1220
+    },
+    "idCard": {
+      "public_ID": "idcard/vagnl5z36bdtdyf4lc07",
+      "public_URI": "https://res.cloudinary.com/dgosveagf/image/upload/v1720983446/idcard/vagnl5z36bdtdyf4lc07.png"
+    },
+    "isDropper": "NoDropper",
+    "linkedin": "NA",
+    "pricePerDay": 1001,
+    "pricePerMonth": 5461,
+    "studyMode": "online",
+    "yearOfStudy": 4,
+    "youtube": "NA",
+    "pricePerMonthOld": 5467,
+    "pricePerDayOld": 1000,
+    "isHeadMentor": false,
+    "coverImg": {
+      "public_ID": "covers/eqkg7mwosgusjb0m9afp",
+      "public_URI": "https://res.cloudinary.com/dgosveagf/image/upload/v1730880991/covers/eqkg7mwosgusjb0m9afp.webp"
+    },
+    "popUp": false,
+    "numVerified": false,
+    "totalActiveMentee": 1
+  }]
